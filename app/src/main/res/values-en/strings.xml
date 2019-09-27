@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DSI31firstapp</string>
+    <string name="envoyer">Send</string>
+    <string name="tapez_votre_nom_ici">Enter your name here</string>
+    <string name="entrer_votre_nom">Entrer your name :</string>
+    <string name="hello">Hello" "</string>
+    <string name="exclamation_point">" "!</string>
+</resources>
